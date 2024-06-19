@@ -2,8 +2,7 @@
 #resta
 def resta (a,b):
   resta = a-b
-  return (suma)
-
+  return (resta)
 
 #divición
 def divición (a,b):
