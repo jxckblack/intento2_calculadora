@@ -8,3 +8,12 @@ def resta (a,b):
 def divición (a,b):
   divición= a/b
   return (divición)
+
+#Suma
+def suma(num1, num2):
+    return num1+num2
+
+#Multiplicacion
+def multiplicacion(num1,num2):
+    return num1*num2
+
