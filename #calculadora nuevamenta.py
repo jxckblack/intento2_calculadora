@@ -12,5 +12,11 @@ def divición (a,b):
     except ZeroDivisionError as o :
         print("no se puede dividir por cero")
     return (divición) 
+#Suma
+def suma(num1, num2):
+    return num1+num2
 
-   
+#Multiplicacion
+def multiplicacion(num1,num2):
+    return num1*num2
+
