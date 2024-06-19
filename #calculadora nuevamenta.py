@@ -5,6 +5,12 @@ def resta (a,b):
   return (resta)
 
 #divición
+
 def divición (a,b):
-  divición= a/b
-  return (divición)
+    try:
+        divición= a/b
+    except ZeroDivisionError as o :
+        print("no se puede dividir por cero")
+    return (divición) 
+
+   
